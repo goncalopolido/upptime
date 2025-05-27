@@ -4,36 +4,40 @@
     "url": "https://chibisafe.polido.pt",
     "icon": "https://icons.duckduckgo.com/ip3/chibisafe.polido.pt.ico",
     "slug": "chibisafe",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 853,
-    "timeDay": 853,
-    "timeWeek": 853,
-    "timeMonth": 853,
-    "timeYear": 853,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 746,
+    "timeDay": 746,
+    "timeWeek": 746,
+    "timeMonth": 746,
+    "timeYear": 746,
+    "dailyMinutesDown": {
+      "2025-05-27": 0
+    }
   },
   {
     "name": "Uguu",
     "url": "https://uguu.polido.pt",
     "icon": "https://icons.duckduckgo.com/ip3/uguu.polido.pt.ico",
     "slug": "uguu",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 551,
-    "timeDay": 551,
-    "timeWeek": 551,
-    "timeMonth": 551,
-    "timeYear": 551,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 495,
+    "timeDay": 495,
+    "timeWeek": 495,
+    "timeMonth": 495,
+    "timeYear": 495,
+    "dailyMinutesDown": {
+      "2025-05-27": 0
+    }
   },
   {
     "name": "clim8",
@@ -41,16 +45,18 @@
     "icon": "https://clim8.polido.pt/src/svg/cloudy-light-favicon.svg",
     "slug": "clim8",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.88%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 569,
     "timeDay": 569,
     "timeWeek": 569,
     "timeMonth": 569,
     "timeYear": 569,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-27": 0
+    }
   }
 ]
