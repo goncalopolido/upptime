@@ -8,7 +8,8 @@ sites:
     url: https://uguu.polido.pt
   - name: clim8
     url: https://clim8.polido.pt
-    
+    icon: https://clim8.polido.pt/src/svg/cloudy-light-favicon.svg
+  
 status-website:
   cname: upptime.polido.pt
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
