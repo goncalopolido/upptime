@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 853,
-    "timeDay": 853,
-    "timeWeek": 853,
-    "timeMonth": 853,
-    "timeYear": 853,
+    "time": 852,
+    "timeDay": 852,
+    "timeWeek": 852,
+    "timeMonth": 852,
+    "timeYear": 852,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 587,
-    "timeWeek": 587,
-    "timeMonth": 587,
-    "timeYear": 587,
+    "time": 543,
+    "timeDay": 543,
+    "timeWeek": 543,
+    "timeMonth": 543,
+    "timeYear": 543,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/clim8.polido.pt.ico",
     "slug": "clim8",
     "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.83%",
-    "time": 608,
-    "timeDay": 608,
-    "timeWeek": 608,
-    "timeMonth": 608,
-    "timeYear": 608,
+    "uptime": "50.21%",
+    "uptimeDay": "50.21%",
+    "uptimeWeek": "50.21%",
+    "uptimeMonth": "50.21%",
+    "uptimeYear": "50.21%",
+    "time": 598,
+    "timeDay": 598,
+    "timeWeek": 598,
+    "timeMonth": 598,
+    "timeYear": 598,
     "dailyMinutesDown": {
-      "2025-05-27": 0
+      "2025-05-27": 10
     }
   }
 ]
