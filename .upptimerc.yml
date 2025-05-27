@@ -7,7 +7,7 @@ sites:
   - name: Uguu
     url: https://uguu.polido.pt
   - name: clim8
-    url: https://clim8.polido.p
+    url: https://clim8.polido.pt
     
 status-website:
   cname: upptime.polido.pt
