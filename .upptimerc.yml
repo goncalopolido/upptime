@@ -8,8 +8,10 @@ sites:
     url: https://uguu.polido.pt
   - name: clim8
     url: https://clim8.polido.pt
+    icon: https://files.polido.pt/clim8_favicon-j5PXxn.png
   - name: Proxmox VE
     url: $SECRET_PROXMOX_URL
+    icon: https://files.polido.pt/proxmoxve_favicon-2ZcjgY.ico
   
 status-website:
   cname: upptime.polido.pt
