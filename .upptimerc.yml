@@ -8,7 +8,7 @@ sites:
     url: https://uguu.polido.pt
   - name: clim8
     url: https://clim8.polido.pt
-    icon: https://i.imgur.com/U7O0U9s.png
+    icon: https://i.imgur.com/nN2Dksk.png
   
 status-website:
   cname: upptime.polido.pt
