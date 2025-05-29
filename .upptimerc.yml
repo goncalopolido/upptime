@@ -10,7 +10,7 @@ sites:
     url: https://clim8.polido.pt
     icon: https://files.polido.pt/clim8_favicon-j5PXxn.png
   - name: Proxmox VE
-    url: $SECRET_PROXMOX_URL
+    url: https://proxmox.polido.pt
     icon: https://files.polido.pt/proxmoxve_favicon-2ZcjgY.ico
   
 status-website:
@@ -24,7 +24,3 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: polido.pt
       href: https://polido.pt
-      
-skipDescriptionUpdate: false
-skipTopicsUpdate: false
-skipHomepageUpdate: false
