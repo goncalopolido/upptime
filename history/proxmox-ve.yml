@@ -1,7 +1,7 @@
 url: $SECRET_PROXMOX_URL
-status: down
-code: 403
-responseTime: 263
-lastUpdated: 2025-05-29T13:18:21.588Z
+status: up
+code: 200
+responseTime: 578
+lastUpdated: 2025-05-29T13:35:50.422Z
 startTime: 2025-05-28T15:36:47.617Z
 generator: Upptime <https://github.com/upptime/upptime>
