@@ -24,3 +24,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: polido.pt
       href: https://polido.pt
+
+skipDescriptionUpdate: false
+skipTopicsUpdate: false
+skipHomepageUpdate: false
