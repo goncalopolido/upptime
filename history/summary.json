@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/chibisafe.polido.pt.ico",
     "slug": "chibisafe",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 602,
-    "timeDay": 666,
-    "timeWeek": 602,
-    "timeMonth": 602,
-    "timeYear": 602,
+    "uptime": "99.61%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 576,
+    "timeDay": 598,
+    "timeWeek": 576,
+    "timeMonth": 576,
+    "timeYear": 576,
     "dailyMinutesDown": {
-      "2025-05-29": 0
+      "2025-05-29": 11
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/uguu.polido.pt.ico",
     "slug": "uguu",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 431,
-    "timeDay": 499,
-    "timeWeek": 431,
-    "timeMonth": 431,
-    "timeYear": 431,
+    "uptime": "99.61%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 408,
+    "timeDay": 436,
+    "timeWeek": 408,
+    "timeMonth": 408,
+    "timeYear": 408,
     "dailyMinutesDown": {
-      "2025-05-29": 0
+      "2025-05-29": 11
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://files.polido.pt/clim8_favicon-j5PXxn.png",
     "slug": "clim8",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 484,
-    "timeWeek": 425,
-    "timeMonth": 425,
-    "timeYear": 425,
+    "uptime": "99.61%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 412,
+    "timeDay": 445,
+    "timeWeek": 412,
+    "timeMonth": 412,
+    "timeYear": 412,
     "dailyMinutesDown": {
-      "2025-05-29": 0
+      "2025-05-29": 10
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://files.polido.pt/proxmoxve_favicon-2ZcjgY.ico",
     "slug": "proxmox-ve",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 346,
-    "timeDay": 346,
-    "timeWeek": 346,
-    "timeMonth": 346,
-    "timeYear": 346,
+    "uptime": "99.13%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
+    "time": 311,
+    "timeDay": 311,
+    "timeWeek": 311,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {
-      "2025-05-29": 0
+      "2025-05-29": 10
     }
   }
 ]
