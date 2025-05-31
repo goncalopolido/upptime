@@ -1,7 +1,7 @@
 url: https://proxmox.polido.pt
-status: down
-code: 403
-responseTime: 173
-lastUpdated: 2025-05-31T11:40:26.534Z
+status: up
+code: 200
+responseTime: 560
+lastUpdated: 2025-05-31T11:49:09.659Z
 startTime: 2025-05-28T15:36:47.617Z
 generator: Upptime <https://github.com/upptime/upptime>
